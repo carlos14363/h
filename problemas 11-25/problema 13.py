@@ -1,0 +1,6 @@
+nom1 =input("ingrese su nombre: ")
+nom2 =input("ingrese el nombre de tu amigo: ")
+nom3 =input("ingrese el nombre de tu otro amigo: ")
+print("hola",nom1, "como has estado?")
+print("que rollo",nom2,"que dice la people?")
+print("holaaaa",nom3,"que dice la family?")
